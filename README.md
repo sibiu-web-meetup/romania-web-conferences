@@ -1,4 +1,4 @@
-# Web Conferences and Events made in Romania
+# Web Conferences and Events Made in Romania
 
 > 😎 A list of all web related events and conferences in Romania
 
